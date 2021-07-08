@@ -151,7 +151,7 @@ body{
 .front-end>a{
     text-decoration: none;
     color: var(--clr-desaturated-dark-blue);
-    transition: 500ms;
+    transition: 300ms;
     background: var(--clr-light-grayish-blue);
 }
 .front-end>a:hover{
@@ -168,7 +168,7 @@ body{
 .coder>a{
     text-decoration: none;
     color: var(--clr-desaturated-dark-blue);
-    transition: 500ms;
+    transition: 300ms;
     background: var(--clr-light-grayish-blue);
     padding: 0 1rem;
     width: 100px;
@@ -321,5 +321,12 @@ body{
         align-items: center;
         justify-content: space-between;
         padding-bottom: 1.5rem;
+    }
+    .attribution{
+        text-align: center;
+        color:var(--clr-grayish-blue);
+        font-family: var(--font-family);
+        min-width: 300px;
+        margin-top: 20px;
     }
 }
