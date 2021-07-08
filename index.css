@@ -63,7 +63,7 @@ body{
     padding-right: 10%;
     padding-top: 1rem;
     bottom: 1rem;
-    transition: 800ms ease-in;
+    transition: 800ms;
     transform: translateY(0);
 }
 .profile-info-container{
@@ -104,7 +104,7 @@ body{
     padding-top: 1rem;
     padding-bottom: 1rem;
     transform: translateY(1000%);
-    transition: 800ms ease-in;
+    transition: 800ms;
 }
 .social-media{
     display: flex;
