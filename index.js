@@ -1,6 +1,6 @@
 const btn1 = document.getElementById("share-button");
 const profile = document.getElementById("profile-container");
-const btn2 = document.getElementById("share-button-2");
+const btn2 = document.getElementById("close-button");
 const share = document.getElementById("share-container");
 
 btn1.addEventListener("click",()=>{
