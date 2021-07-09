@@ -121,7 +121,7 @@ body{
     align-items: center;
     gap: 1rem;
 }
-#share-button-2{
+#close-button{
     background: var(--clr-grayish-blue);
     border-radius: 50%;
     padding: 0.5rem;
